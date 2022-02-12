@@ -1,4 +1,4 @@
-<a href="https://digimatweb.github.io"><img src="https://digimatweb.github.io/img/logo.png" alt="image" align="right" width="100"></a>
+<a href="https://digimatweb.github.io"><img src="https://png.pngtree.com/template/20190927/ourmid/pngtree-wolf-head-icon-logo-vector-image_310563.jpg" alt="image" align="right" width="100"></a>
 # goNet
 Project for goNet interview
 
