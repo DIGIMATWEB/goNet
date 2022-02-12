@@ -8,6 +8,6 @@ Project for goNet interview
 Follow the installation instructions in the [User Guide](https://docs.aplus-framework.com/guides/projects/app/index.html).
 
 ```
-composer create-project aplus/app:dev-master aplus 
+ejemplo 
 ```
 ##Using the moviedB API
