@@ -12,5 +12,4 @@ Follow the installation instructions in the [User Guide](https://docs.aplus-fram
 ejemplo 
 ```
 
-ada.
 ###Using the moviedB API
