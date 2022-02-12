@@ -13,4 +13,4 @@ ejemplo
 ```
 
 ### Using the moviedB API
-descripcion en el archivo `README.md` file.
+descripcion en el archivo `README.md`.
