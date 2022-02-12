@@ -14,3 +14,11 @@ ejemplo
 
 ### Using the moviedB API
 Description into the file `README.md`.
+
+**Commits**:
+> Coding is Art.
+>
+> Coding is Engineering.
+>
+> Good developer loves to code.
+>
